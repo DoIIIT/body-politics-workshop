@@ -1,6 +1,6 @@
 #Soft Potentiometer Tutorial
 ## SparkFun Tutorial Link
-Here is the SparkFun tutorial [link](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-10-reading-a-soft-potentiometer]
+Here is the SparkFun tutorial [link](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-10-reading-a-soft-potentiometer)
 
 ## Sketch
 Credit: SparkFun 
