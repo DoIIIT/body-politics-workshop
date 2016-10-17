@@ -1,6 +1,6 @@
 #Soft Potentiometer Tutorial
 ## SparkFun Tutorial Link
-Here is the SparkFun tutorial [link](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-10-reading-a-soft-potentiometer
+Here is the SparkFun tutorial [link](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-10-reading-a-soft-potentiometer]
 
 ## Sketch
 Credit: SparkFun 
@@ -10,6 +10,6 @@ Credit: SparkFun
 ## Description
 This sample code read the value from the potentiometer and use the value to adjust the on-board LED's blink interval in ms.
 
-Connect one of the outer pin to + on LilyPad
-Connect the other outer pin to -
-Connect the middle pin to A2.
+Connect one of the outer pin to + on LilyPad  
+Connect the other outer pin to -  
+Connect the middle pin to A2  
