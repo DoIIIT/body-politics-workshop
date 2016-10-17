@@ -11,7 +11,7 @@ void setup() {
 // the loop routine runs over and over again forever:
 void loop() {
   int output = analogRead(2); 
-  // the output from SoftPot, range from 1 to 1024
+  // the output from SoftPot, range from 0 to 1023
   
   // blink the LED
   digitalWrite(led, HIGH);
